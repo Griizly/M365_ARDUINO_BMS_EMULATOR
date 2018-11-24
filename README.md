@@ -28,8 +28,9 @@ GND           ->    G
 
 
 M365 motherboard
+
 ![alt text](https://i.imgur.com/lZtx8rl.jpg)
 
-
 Arduino NANO
+
 ![alt text](http://2.bp.blogspot.com/-nGbwbpqz7xU/UJW2yoRcd7I/AAAAAAAATdI/KG95uVsLgdM/s1600/Arduino+nano+Pinout.png)
