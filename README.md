@@ -17,6 +17,7 @@ I don't have time to continue this project so I share it
 My work is based on the work of BotoX https://github.com/BotoX/xiaomi-m365-compatible-bms
 
 ARDUINO NANO        M365 mother board
+
 RX            ->    T
 
 TX            ->    R
